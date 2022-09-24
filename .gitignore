@@ -1,2 +1,6 @@
 /.idea/
 .gitignore
+/out/
+.gitignore
+.idea
+MyTaskSoltionss.iml

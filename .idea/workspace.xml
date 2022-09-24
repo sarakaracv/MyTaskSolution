@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2fd377a-17f0-4379-bf3d-3daeec09f2da" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyTaskSoltionss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayTask/ArrayAddUpToSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayTask/ArrayFindMaximum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayTask/ArrayFindMinimum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sarakara/IdeaProjects/Java_ProgrammingSaran"
+    "last_opened_file_path": "C:/Users/sarakara/IdeaProjects/MyTaskSoltionss"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -50,6 +48,45 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sarakara\IdeaProjects\MyTaskSoltionss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.String_DisplayALlDistinctStrings">
+    <configuration name="ArrayFindMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayTask1.ArrayFindMaximum" />
+      <module name="MyTaskSoltionss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayTask1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String_DisplayALlDistinctStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_tasks.String_DisplayALlDistinctStrings" />
+      <module name="MyTaskSoltionss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string_tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.String_DisplayALlDistinctStrings" />
+        <item itemvalue="Application.ArrayFindMaximum" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660788143753</updated>
-      <workItem from="1660788145077" duration="2324000" />
+      <workItem from="1660788145077" duration="2776000" />
+      <workItem from="1663989793472" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="array">
       <created>1660788260157</created>
@@ -74,7 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1660790096301</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="array">
+      <created>1660790841086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660790841086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="arrays">
+      <created>1660791065165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660791065165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="arrays">
+      <created>1660791087608</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660791087608</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="array" />
-    <option name="LAST_COMMIT_MESSAGE" value="array" />
+    <MESSAGE value="arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="arrays" />
   </component>
 </project>
